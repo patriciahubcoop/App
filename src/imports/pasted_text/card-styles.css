@@ -1,0 +1,149 @@
+.card {
+  	width: 100%;
+  	height: 202.5px;
+  	position: relative;
+  	box-shadow: 0px 4px 8px rgba(20, 53, 38, 0.4);
+  	border-radius: 12px;
+  	background: linear-gradient(110.98deg, #005d42, #009a44);
+  	border: 1px solid #007452;
+  	box-sizing: border-box;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	padding: 24px;
+  	gap: 16px;
+  	text-align: left;
+  	font-size: 10px;
+  	color: #040f14;
+  	font-family: 'Open Sans';
+}
+.topo {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 16px;
+}
+.tagTipo {
+  	width: 76px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+}
+.badgeText {
+  	align-self: stretch;
+  	border-radius: 8px;
+  	background-color: #aadb1e;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4px 8px;
+}
+.texto {
+  	position: relative;
+  	letter-spacing: 0.1em;
+  	line-height: 150%;
+  	text-transform: uppercase;
+  	font-weight: 600;
+}
+.cartoLinha {
+  	flex: 1;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	text-align: right;
+  	font-size: 14px;
+  	color: #fff;
+}
+.signature {
+  	flex: 1;
+  	position: relative;
+  	line-height: 140%;
+}
+.meio {
+  	align-self: stretch;
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-end;
+  	gap: 8px;
+  	font-size: 16px;
+  	color: #fff;
+}
+.nome {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+}
+.janainaVFagundes {
+  	position: relative;
+  	line-height: 130%;
+}
+.cartoNmero {
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.b {
+  	position: relative;
+  	line-height: 150%;
+}
+.base {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: center;
+  	justify-content: space-between;
+  	gap: 20px;
+  	font-size: 12px;
+  	color: rgba(255, 255, 255, 0.6);
+}
+.validadeCvv {
+  	display: flex;
+  	align-items: flex-start;
+  	gap: 24px;
+}
+.validade {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	gap: 8px;
+}
+.paragraph {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: flex-start;
+}
+.validade2 {
+  	position: relative;
+  	line-height: 1.5px;
+}
+.paragraph2 {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	font-size: 16px;
+  	color: #fff;
+}
+.bandeira {
+  	align-self: stretch;
+  	width: 50px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+}
+.image1Icon {
+  	align-self: stretch;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+

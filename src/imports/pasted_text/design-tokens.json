@@ -1,0 +1,194 @@
+{
+  "font": {
+    "family": {
+      "base": {
+        "$type": "other",
+        "$value": "Open Sans"
+      }
+    },
+    "headline-1": {
+      "desktop": {
+        "size": {
+          "$type": "other",
+          "$value": "2.5rem"
+        },
+        "weight": {
+          "$type": "other",
+          "$value": 700
+        },
+        "line-height": {
+          "$type": "other",
+          "$value": "3rem"
+        }
+      },
+      "tablet": {
+        "size": {
+          "$type": "other",
+          "$value": "2.125rem"
+        },
+        "weight": {
+          "$type": "other",
+          "$value": 700
+        },
+        "line-height": {
+          "$type": "other",
+          "$value": "2.5rem"
+        }
+      },
+      "mobile": {
+        "size": {
+          "$type": "other",
+          "$value": "1.875rem"
+        },
+        "weight": {
+          "$type": "other",
+          "$value": 700
+        },
+        "line-height": {
+          "$type": "other",
+          "$value": "2.25rem"
+        }
+      }
+    },
+    "headline-2": {
+      "desktop": {
+        "size": {
+          "$type": "other",
+          "$value": "2rem"
+        },
+        "weight": {
+          "$type": "other",
+          "$value": 700
+        },
+        "line-height": {
+          "$type": "other",
+          "$value": "2.5rem"
+        }
+      },
+      "tablet": {
+        "size": {
+          "$type": "other",
+          "$value": "1.75rem"
+        },
+        "weight": {
+          "$type": "other",
+          "$value": 700
+        },
+        "line-height": {
+          "$type": "other",
+          "$value": "2rem"
+        }
+      },
+      "mobile": {
+        "size": {
+          "$type": "other",
+          "$value": "1.5rem"
+        },
+        "weight": {
+          "$type": "other",
+          "$value": 700
+        },
+        "line-height": {
+          "$type": "other",
+          "$value": "1.75rem"
+        }
+      }
+    },
+    "body-1": {
+      "size": {
+        "$type": "other",
+        "$value": "1rem"
+      },
+      "weight": {
+        "$type": "other",
+        "$value": 400
+      },
+      "line-height": {
+        "$type": "other",
+        "$value": "1.5rem"
+      }
+    },
+    "body-2": {
+      "size": {
+        "$type": "other",
+        "$value": "0.875rem"
+      },
+      "weight": {
+        "$type": "other",
+        "$value": 400
+      },
+      "line-height": {
+        "$type": "other",
+        "$value": "1.25rem"
+      }
+    },
+    "button-1": {
+      "size": {
+        "$type": "other",
+        "$value": "1rem"
+      },
+      "weight": {
+        "$type": "other",
+        "$value": 600
+      },
+      "line-height": {
+        "$type": "other",
+        "$value": "1.25rem"
+      },
+      "letter-spacing": {
+        "$type": "other",
+        "$value": "0.05em"
+      }
+    },
+    "button-2": {
+      "size": {
+        "$type": "other",
+        "$value": "0.875rem"
+      },
+      "weight": {
+        "$type": "other",
+        "$value": 600
+      },
+      "line-height": {
+        "$type": "other",
+        "$value": "1.125rem"
+      },
+      "letter-spacing": {
+        "$type": "other",
+        "$value": "0.05em"
+      }
+    },
+    "caption": {
+      "size": {
+        "$type": "other",
+        "$value": "0.75rem"
+      },
+      "weight": {
+        "$type": "other",
+        "$value": 400
+      },
+      "line-height": {
+        "$type": "other",
+        "$value": "1rem"
+      }
+    },
+    "caption-uppercase": {
+      "size": {
+        "$type": "other",
+        "$value": "0.625rem"
+      },
+      "weight": {
+        "$type": "other",
+        "$value": 600
+      },
+      "line-height": {
+        "$type": "other",
+        "$value": "0.875rem"
+      },
+      "text-transform": {
+        "$type": "other",
+        "$value": "uppercase"
+      }
+    }
+  }
+}

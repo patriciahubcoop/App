@@ -1,0 +1,160 @@
+.propsecondaryB {
+  	height: 222px;
+  	width: 100%;
+  	position: relative;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	padding: 6px;
+  	box-sizing: border-box;
+  	min-width: 320px;
+  	max-width: 420px;
+  	min-height: 204.14px;
+  	max-height: 267.93px;
+  	text-align: left;
+  	font-size: 10px;
+  	color: #69757b;
+  	font-family: 'Open Sans';
+}
+.card {
+  	align-self: stretch;
+  	height: 210px;
+  	box-shadow: 0px 4px 8px rgba(20, 53, 38, 0.4);
+  	border-radius: 12px;
+  	background: linear-gradient(111.22deg, #040f14, #1d3633);
+  	border: 1px solid #161616;
+  	box-sizing: border-box;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	padding: 24px;
+  	gap: 16px;
+}
+.topo {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 16px;
+  	color: #040f14;
+}
+.tagTipo {
+  	width: 76px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+}
+.badgeText {
+  	align-self: stretch;
+  	border-radius: 8px;
+  	background-color: #a7b0b5;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4px 6px;
+}
+.texto {
+  	position: relative;
+  	letter-spacing: 0.1em;
+  	line-height: 150%;
+  	text-transform: uppercase;
+  	font-weight: 600;
+}
+.cartoLinha {
+  	flex: 1;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	text-align: right;
+  	font-size: 14px;
+  	color: #69757b;
+}
+.signature {
+  	flex: 1;
+  	position: relative;
+  	line-height: 140%;
+}
+.meio {
+  	align-self: stretch;
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-end;
+  	gap: 8px;
+  	font-size: 16px;
+}
+.nome {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+}
+.janainaVFagundes {
+  	position: relative;
+  	line-height: 130%;
+}
+.cartoNmero {
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.b {
+  	position: relative;
+  	line-height: 150%;
+}
+.base {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: center;
+  	justify-content: space-between;
+  	gap: 20px;
+  	font-size: 12px;
+}
+.validadeCvv {
+  	display: flex;
+  	align-items: flex-start;
+  	gap: 24px;
+}
+.validade {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	gap: 8px;
+}
+.paragraph {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: flex-start;
+}
+.validade2 {
+  	position: relative;
+  	line-height: 1.5px;
+}
+.paragraph2 {
+  	align-self: stretch;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	font-size: 16px;
+}
+.bandeira {
+  	align-self: stretch;
+  	width: 50px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+}
+.image1Icon {
+  	align-self: stretch;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+
